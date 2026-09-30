@@ -53,7 +53,7 @@ Google Forms를 활용하여 대한민국 20대 청년 90명을 대상으로 비
 - 영어 학습 강점은 **듣기(42.2%)**, 약점은 **말하기(35.6%)**로 나타남
   
 <img src="images/영어학습시작시기.png" width="300">
-<img src="images/강점약.png" width="600">
+<img src="images/강점약점.png" width="600">
 
 
 ### 2. 교육 유형에 따른 영어 실력 차이
@@ -64,7 +64,7 @@ Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 �
 - Bonferroni 사후검정을 통해 집단 간 차이 비교
   
 ![](images/Kruskal-Wallis.png)
-<img src="images/Kruskal-Wallis상자.png" width="500">
+<img src="images/Kruskal-Wallis상자.png" width="400">
 
 
 ### 3. 영어 대화 수준 분석
@@ -86,7 +86,7 @@ Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 �
 - **r = .806**
 - **p < .001**
 
-<img src="images/상관관계.png" width="500">
+<img src="images/상관관계.png" width="400">
 
 
 
