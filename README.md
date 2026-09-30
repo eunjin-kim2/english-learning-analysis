@@ -75,8 +75,8 @@ Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 �
 - **t = -5.069**
 - **p < .001**
   
-![](images/일표본통계량.png)
-![](images/일표본t검정.png)
+<img src="images/일표본통계량.png" width="300">
+<img src="images/일표본t검정.png" width="300">
 
 
 ### 4. 영어 실력과 대화 수준의 상관관계
