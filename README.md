@@ -56,6 +56,7 @@ Google Forms를 활용하여 대한민국 20대 청년 90명을 대상으로 비
 <img src="images/강점약점.png" width="600">
 
 
+
 ### 2. 교육 유형에 따른 영어 실력 차이
 
 Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 자기평가 점수에 통계적으로 유의한 차이가 나타났습니다.
@@ -67,6 +68,7 @@ Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 �
 <img src="images/Kruskal-Wallis상자.png" width="400">
 
 
+
 ### 3. 영어 대화 수준 분석
 
 일표본 t-검정을 통해 20대 청년층의 영어 대화 수준이 기준값(3점)보다 낮은지 검증했습니다.
@@ -76,7 +78,8 @@ Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 �
 - **p < .001**
   
 <img src="images/일표본통계량.png" width="300">
-<img src="images/일표본t검정.png" width="300">
+<img src="images/일표본t검정.png" width="400">
+
 
 
 ### 4. 영어 실력과 대화 수준의 상관관계
