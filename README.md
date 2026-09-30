@@ -55,7 +55,7 @@ Google Forms를 활용하여 대한민국 20대 청년 90명을 대상으로 비
 <img src="images/영어학습시작시기.png" width="300">
 <img src="images/강점약점.png" width="600">
 
-
+<br><br>
 
 ### 2. 교육 유형에 따른 영어 실력 차이
 
@@ -67,7 +67,7 @@ Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 �
 ![](images/Kruskal-Wallis.png)
 <img src="images/Kruskal-Wallis상자.png" width="400">
 
-
+<br><br>
 
 ### 3. 영어 대화 수준 분석
 
@@ -80,7 +80,7 @@ Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 �
 <img src="images/일표본통계량.png" width="300">
 <img src="images/일표본t검정.png" width="400">
 
-
+<br><br>
 
 ### 4. 영어 실력과 대화 수준의 상관관계
 
@@ -91,7 +91,7 @@ Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 �
 
 <img src="images/상관관계.png" width="400">
 
-
+<br><br><br>
 
 ## 담당 역할
 
