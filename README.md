@@ -51,8 +51,8 @@ Google Forms를 활용하여 대한민국 20대 청년 90명을 대상으로 비
 - 영어 학습 시작 시기, 학습 방법, 강점·약점 등 14개 변수 구성
 - 응답자의 **55.6%**가 초등학교부터 본격적으로 영어 학습 시작
 - 영어 학습 강점은 **듣기(42.2%)**, 약점은 **말하기(35.6%)**로 나타남
-images/영어학습시작시기.png
-images/강점약점.png
+![](images/영어학습시작시기.png)
+![](images/강점약점.png)
 
 
 ### 2. 교육 유형에 따른 영어 실력 차이
@@ -61,8 +61,8 @@ Kruskal-Wallis 비모수 검정 결과, 교육 방법에 따른 영어 실력 �
 
 - **p = 0.04**
 - Bonferroni 사후검정을 통해 집단 간 차이 비교
-images/Kruskal-Wallis.png
-images/Kruskal-Wallis상자.png
+![](images/Kruskal-Wallis.png)
+![](images/Kruskal-Wallis상자.png)
 
 
 ### 3. 영어 대화 수준 분석
@@ -72,8 +72,8 @@ images/Kruskal-Wallis상자.png
 - 평균 : **2.43**
 - **t = -5.069**
 - **p < .001**
-images/일표본통계량.png
-images/일표본t검정.png
+![](images/일표본통계량.png)
+![](images/일표본t검정.png)
 
 
 ### 4. 영어 실력과 대화 수준의 상관관계
@@ -82,7 +82,7 @@ images/일표본t검정.png
 
 - **r = .806**
 - **p < .001**
-images/상관관계.png
+![](images/상관관계.png)
 
 
 
